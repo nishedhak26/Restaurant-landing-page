@@ -1,49 +1,45 @@
-# 🍽️ Delish Restaurant Landing Page
+# 🍽️ Lumière - Restaurant Landing Page
 
-Welcome to **Delish** — a tasty and modern restaurant landing page designed to whet your appetite! This project showcases a clean, responsive design that works beautifully on desktop and mobile.
-
----
-
-## 🚀 What’s Inside?
-
-- A **sleek navbar** with a hamburger menu for easy navigation on any device  
-- A mouth-watering **hero section** with a fullscreen background image and call-to-action button  
-- A delicious **menu grid** showcasing popular dishes with images and prices  
-- A cozy **about section** that tells the story of Delish’s culinary passion  
-- A simple but functional **contact form** to get in touch (static, no backend)  
-- Fully **responsive design** — looks great on phones, tablets, and desktops  
+This is a clean and modern landing page for a fine dining restaurant called Lumière.
 
 ---
 
-## 🛠️ Built With
+## ❓ What is this?
 
-- Semantic **HTML5**  
-- Stylish **CSS3** featuring Flexbox & Grid layouts  
-- Interactive **JavaScript** for mobile menu toggling  
-- Google Fonts for clean typography  
-
----
-
-## 🎯 Why This Project?
-
-As a front-end enthusiast, this project helped me practice creating responsive layouts, implementing interactivity, and building user-friendly navigation. Plus, it’s a great way to show how design and development come together to make a website that’s both beautiful and functional!
+- 🏠 A homepage with a beautiful background and smooth animations  
+- 📖 About section explaining the restaurant’s story  
+- 🍽️ Menu section showing popular dishes with images and prices  
+- 📍 Contact section with location and reservation info  
+- 📱 Responsive design that works on desktop and mobile  
 
 ---
 
-## 📺 Live Demo
+## 🛠️ Technologies Used
 
-Check it out live here: [Your Live Demo Link]  
-
----
-
-## 🚀 How to Run Locally
-
-1. Clone or download the repo  
-2. Open `index.html` in your favorite browser  
-3. Feast your eyes on the design!  
+- 💻 HTML  
+- 🎨 CSS  
+- ⚙️ JavaScript  
 
 ---
 
+## 🚀 How to Run
 
+1. 📂 Make sure `index.html`, `styles.css`, and `script.js` are in the same folder.  
+2. 🌐 Open `index.html` in any web browser.
 
-Thanks for stopping by! If you love good food and great code, this page’s for you. 🍕🍔🥗  
+---
+
+## ✨ Features
+
+- 📌 Sticky navigation bar with smooth scrolling  
+- 🎯 Hover effects on menu items  
+- 🌟 Animated hero section with glowing text and particles  
+- 🌀 Parallax scroll effect on the hero image  
+
+---
+
+## 🙌 Feel free to use and improve this project!
+
+---
+
+© 2025 Lumière Restaurant  
